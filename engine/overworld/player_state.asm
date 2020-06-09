@@ -255,11 +255,11 @@ PrintSafariZoneSteps:
 	call PlaceString
 	ld a, [wNumSafariBalls]
 	cp 10
-	jr nc, .asm_c56d
+	jr nc, .printNumberOfBalls
 	coord hl, 5, 3
 	ld a, " "
-	ld [hl], a
-.asm_c56d
+	ld [hl], a ; If there's less than 10 balls left, cover up the leftmost x in "BALLxx"
+.printNumberOfBalls
 	coord hl, 6, 3
 	ld de, wNumSafariBalls
 	lb bc, 1, 2
