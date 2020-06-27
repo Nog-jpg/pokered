@@ -1,6 +1,6 @@
 _OakAppearsText::
-	text "אלון: היי! חכה"
-	line "רגע! אל תלך!@@"
+	text "אלון: היי! חכי"
+	line "רגע! אל תלכי!@@"
 
 _OakWalksUpText::
 	text "אלון: זה מסוכן!"
@@ -12,7 +12,7 @@ _OakWalksUpText::
 	cont "שיגנו עליך."
 	cont "יש לי רעיון!"
 
-	para "בוא איתי!"
+	para "בואי איתי!"
 	done
 
 _PalletTownText2::

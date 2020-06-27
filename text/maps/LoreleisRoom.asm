@@ -1,5 +1,5 @@
 _LoreleiBeforeBattleText::
-	text "ברוך הבא לליגת"
+	text "ברוכה הבאה לליגת"
 	line "ה#ימון!"
 
 	para "אני אירנה"
@@ -19,7 +19,7 @@ _LoreleiBeforeBattleText::
 	cont "שאקפיא אותם!"
 
 	para "חה חה חה!"
-	line "אתה מוכן?"
+	line "את מוכנה?"
 	done
 
 _LoreleiEndBattleText::
@@ -27,8 +27,8 @@ _LoreleiEndBattleText::
 	prompt
 
 _LoreleiAfterBattleText::
-	text "אתה טוב משחשבתי!"
-	line "תתקדם לחדר הבא!"
+	text "את טובה משחשבתי!"
+	line "תתקדמי לחדר הבא!"
 
 	para "עוד לא ראית את כל"
 	line "מה שיש לליגת"
@@ -37,5 +37,5 @@ _LoreleiAfterBattleText::
 
 _LoreleiDontRunAwayText::
 	text "קול מוכר קורא:"
-	line "אל תיסוג!"
+	line "אל תיסגי!"
 	done

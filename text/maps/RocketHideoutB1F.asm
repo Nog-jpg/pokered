@@ -2,7 +2,7 @@ _RocketHideout1EndBattleText6::
 	text "למה...?@@"
 
 _RocketHideout1BattleText2::
-	text "מי אתה?"
+	text "מי את?"
 	line "איך הגעת לפה?"
 	done
 
@@ -12,12 +12,12 @@ _RocketHideout1EndBattleText2::
 	prompt
 
 _RocketHideout1AfterBattleTxt2::
-	text "אתה מלכלך"
+	text "את מלכלכת"
 	line "על כנופיית רוקט?"
 	done
 
 _RocketHideout1BattleText3::
-	text "אתה חיבלת"
+	text "את חיבלת"
 	line "במבצע שלנו?"
 	done
 
@@ -26,8 +26,8 @@ _RocketHideout1EndBattleText3::
 	prompt
 
 _RocketHideout1AfterBattleTxt3::
-	text "אתה לא הולך"
-	line "להתחמק מזה, פרחח!"
+	text "את לא הולכת"
+	line "להתחמק מזה, פרחחית!"
 	done
 
 _RocketHideout1BattleText4::
@@ -56,14 +56,14 @@ _RocketHideout1EndBattleText5::
 
 _RocketHideout1AfterBattleTxt5::
 	text "בסדר, אני אגיד"
-	line "לך! קח את המעלית"
+	line "לך! קחי את המעלית"
 	cont "כדי לראות את"
 	cont "הבוס שלי!"
 	done
 
 _RocketHideout1BattleText6::
 	text "הלכת לאיבוד,"
-	line "חתיכת בוגד?"
+	line "חתיכת בוגדת?"
 	done
 
 _RocketHideout1AfterBattleTxt6::

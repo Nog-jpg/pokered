@@ -17,4 +17,4 @@ _Route22GateText_1e715::
 _Route22GateText_1e71a::
 	text "אה! יש לך את"
 	line "תג הסלע!"
-	cont "בבקשה, היכנס!@@"
+	cont "בבקשה, היכנסי!@@"

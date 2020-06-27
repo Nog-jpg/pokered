@@ -1,5 +1,5 @@
 _Route8BattleText1::
-	text "נראה שאתה לא רע ב"
+	text "נראה שאת לא רעה ב"
 	line "#ימון, אבל מה"
 	cont "הציון שלך בכימיה?"
 	done
@@ -17,7 +17,7 @@ _Route8AfterBattleText1::
 
 _Route8BattleText2::
 	text "קדימה!"
-	line "גלגל את הקוביות!"
+	line "גלגלי את הקוביות!"
 	done
 
 _Route8EndBattleText2::
@@ -31,17 +31,17 @@ _Route8AfterBattleText2::
 	done
 
 _Route8BattleText3::
-	text "אתה צריך אסטרטגיה"
+	text "את צריכה אסטרטגיה"
 	line "כדי לנצח בקרב!"
 	done
 
 _Route8EndBattleText3::
-	text "אתה לא"
+	text "את לא"
 	line "השתמשת בשכל!"
 	prompt
 
 _Route8AfterBattleText3::
-	text "תשלח את טנפאי"
+	text "תשלחי את טנפאי"
 	line "ראשון.. ואז.."
 	cont "ו.. ואז.."
 	done
@@ -103,7 +103,7 @@ _Route8BattleText7::
 	done
 
 _Route8EndBattleText7::
-	text "היי! תראה"
+	text "היי! תראי"
 	line "מה עשית!"
 	prompt
 
@@ -141,7 +141,7 @@ _Route8BattleText9::
 _Route8EndBattleText9::
 	text "דיי!"
 
-	para "אל תהיה כזה מרושע"
+	para "אל תהיי כזה מרושעת"
 	line "לחמשדון שלי!"
 	prompt
 

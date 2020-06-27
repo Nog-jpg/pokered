@@ -24,7 +24,7 @@ _MagikarpSalesmanText1::
 	para "אני אתן לך"
 	line "קסמנון נהדר"
 	cont "רק ב ¥500!"
-	cont "מה אתה אומר?"
+	cont "מה את אומרת?"
 	done
 
 _MagikarpSalesmanNoText::
@@ -38,7 +38,7 @@ _MagikarpSalesmanNoMoneyText::
 	done
 
 _MagikarpSalesmanText2::
-	text "איש: שתדע שאצלי"
+	text "איש: שתדעי שאצלי"
 	line "אין החזרים!"
 	done
 

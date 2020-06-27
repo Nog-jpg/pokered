@@ -90,8 +90,8 @@ _FuchsiaGymAfterBattleText2::
 	done
 
 _FuchsiaGymBattleText3::
-	text "בוא נראה אותך"
-	line "מנצח את הטכניקות"
+	text "בואי נראה אותך"
+	line "מנצחת את הטכניקות"
 	cont "המיוחדות שלי!"
 	done
 
@@ -109,7 +109,7 @@ _FuchsiaGymAfterBattleText3::
 	done
 
 _FuchsiaGymBattleText4::
-	text "עצור!"
+	text "עצרי!"
 
 	para "הקירות הבלתי-"
 	line "נראים שלנו"
@@ -118,14 +118,14 @@ _FuchsiaGymBattleText4::
 
 _FuchsiaGymEndBattleText4::
 	text "וואו!"
-	line "הוא קלט את זה!"
+	line "היא קלטה את זה!"
 	prompt
 
 _FuchsiaGymAfterBattleText4::
 	text "אני ממש מתרשם!"
-	line "קח רמז!"
+	line "קחי רמז!"
 
-	para "חפש את המעברים"
+	para "חפשי את המעברים"
 	line "שבין הקירות הבלתי"
 	cont "-נראים!"
 	done
@@ -153,8 +153,8 @@ _FuchsiaGymBattleText6::
 	line "לשושלת ארוכה של"
 	cont "נינג'ות!"
 
-	para "מאיזו שושלת אתה"
-	line "מגיע?"
+	para "מאיזו שושלת את"
+	line "מגיעה?"
 	done
 
 _FuchsiaGymEndBattleText6::
@@ -169,12 +169,12 @@ _FuchsiaGymAfterBattleText6::
 	line "גם חושך!"
 
 	para "אור וחושך!"
-	line "באיזה צד תבחר?"
+	line "באיזה צד תבחרי?"
 	done
 
 _FuchsiaGymText_7564e::
 	text "יו!"
-	line "אלופצ'יק!"
+	line "אלופצ'יקית!"
 
 	para "מכון השושנה מלא"
 	line "בקירות בלתי-"
@@ -184,7 +184,7 @@ _FuchsiaGymText_7564e::
 	line "קרוב, אבל הדרך"
 	cont "אליו חסומה!"
 
-	para "תצטרך למצוא מרווחים"
+	para "תצטרכי למצוא מרווחים"
 	line "בין הקירות כדי"
 	cont "להגיע אליו!"
 	done

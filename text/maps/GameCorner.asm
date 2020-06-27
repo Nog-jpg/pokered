@@ -1,23 +1,23 @@
 _CeladonGameCornerText1::
-	text "ברוך הבא!"
+	text "ברוכה הבא!"
 
-	para "אם תרצה להחליף את"
+	para "אם תרצי להחליף את"
 	line "האסימונים שלך"
 	cont "בפרסים נפלאים,"
-	cont "תוכל לעשות זאת"
+	cont "תוכלי לעשות זאת"
 	cont "בבניין הצמוד."
 	done
 
 _CeladonGameCornerText_48d22::
-	text "ברוך הבא לROCKET" ; TODO
+	text "ברוכה הבאה לROCKET" ; TODO
 	line "GAME CORNER!" ; TODO
 
-	para "אתה רוצה לקנות"
+	para "את רוצה לקנות"
 	line "אסימונים?"
 
 	para "05 אסימונים עולים"
-	line "¥0001. אתה"
-	cont "מעוניין?"
+	line "¥0001. את"
+	cont "מעוניינת?"
 	done
 
 _CeladonGameCornerText_48d27::
@@ -48,7 +48,7 @@ _CeladonGameCornerText_48d3b::
 	done
 
 _CeladonGameCornerText3::
-	text "אל תספר לאף אחד."
+	text "אל תספרי לאף אחד."
 
 	para "השמועה אומרת"
 	line "שכנופיית רוקט"
@@ -62,7 +62,7 @@ _CeladonGameCornerText4::
 	done
 
 _CeladonGameCornerText_48d9c::
-	text "ילד, רוצה לשחק?"
+	text "ילדה, רוצה לשחק?"
 	prompt
 
 _Received10CoinsText::
@@ -70,7 +70,7 @@ _Received10CoinsText::
 	line "01 אסימונים!@@"
 
 _CeladonGameCornerText_48da7::
-	text "אתה לא צריך את"
+	text "את לא צריכה את"
 	line "המטבעות שלי!"
 	done
 
@@ -88,7 +88,7 @@ _CeladonGameCornerText_48dca::
 
 	para "יש לך דברים יותר"
 	line "טובים לעשות,"
-	cont "אלופצ'יק!"
+	cont "אלופצ'יקית!"
 
 	para "בראש מכון האביב"
 	line "עומדת המנהיגה"
@@ -141,9 +141,9 @@ _CeladonGameCornerText_48e36::
 	done
 
 _CeladonGameCornerText_48e88::
-	text "רגע, מה? אתה מסיח"
-	line "את דעתי! קח כמה"
-	cont "אסימונים ו′סתלק!"
+	text "רגע, מה? את מסיחה"
+	line "את דעתי! קחי כמה"
+	cont "אסימונים ו′סתלקי!"
 	cont "קישטה!"
 	prompt
 
@@ -165,7 +165,7 @@ _CeladonGameCornerText_48e98::
 _CeladonGameCornerText_48ece::
 	text "אני שומר על הפוסטר"
 	line "הזה!"
-	cont "תסתלק מכאן, או ש!"
+	cont "תסתלקי מכאן, או ש!"
 	done
 
 _CeladonGameCornerText_48ed3::
@@ -183,7 +183,7 @@ _CeladonGameCornerText_48f09::
 
 	para "יש מתג מאחורי"
 	line "הפוסטר!?"
-	cont "קדימה, בוא נלחץ!@@"
+	cont "קדימה, בואי נלחץ!@@"
 
 _CeladonGameCornerText_48f19::
 	text "אופס! שכחת את"

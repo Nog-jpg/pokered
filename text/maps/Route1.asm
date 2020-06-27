@@ -3,7 +3,7 @@ _Route1ViridianMartSampleText::
 	line "ב#יוסק."
 
 	para "זה כמו כלבו."
-	line "אתה מוזמן לבוא"
+	line "את מוזמנת לבוא"
 	cont "ולהתרשם בעצמך"
 	cont "מהסניף בעיר"
 	cont "הברקת!"
