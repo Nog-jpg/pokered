@@ -2,7 +2,7 @@ _CeruleanTrashedText_1d6ab::
 	text "כנופיית רוקט"
 	line "העלובים האלה!"
 
-	para "הסתכל מה הם עשו"
+	para "הסתכלי מה הם עשו"
 	line "כאן!"
 
 	para "הם גנבו MT שמלמד"

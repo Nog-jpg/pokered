@@ -339,10 +339,10 @@ DisplayMonListMenu:
 	ret
 
 BillsPCMenuText:
-	db   "הוצא <pkmn>"
-	next "הכנס <pkmn>"
-	next "שחרר <pkmn>"
-	next "החלף תא"
+	db   "הוצאת <pkmn>"
+	next "הכנסת <pkmn>"
+	next "שחרור <pkmn>"
+	next "החלפת תא"
 	next "יאללה ביי!"
 	db "@"
 
@@ -451,8 +451,8 @@ DisplayDepositWithdrawMenu:
 	call LoadGBPal
 	jr .loop
 
-DepositPCText:  db "הפקד@"
-WithdrawPCText: db "הוצא@"
+DepositPCText:  db "הפקדה@"
+WithdrawPCText: db "הוצאה@"
 StatsCancelPCText:
 	db   "נתונים"
 	next "ביטול@"

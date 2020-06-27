@@ -24,7 +24,7 @@ _LTSurgeThunderbadgeInfoText::
 	done
 
 _ReceivedTM24Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"

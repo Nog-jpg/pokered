@@ -24,7 +24,7 @@ _FuchsiaGymText9::
 	done
 
 _ReceivedTM06Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
@@ -40,8 +40,8 @@ _TM06ExplanationText::
 	done
 
 _TM06NoRoomText::
-	text "פנה מקום בתיק,"
-	line "ילד!"
+	text "פני מקום בתיק,"
+	line "ילדה!"
 	done
 
 _FuchsiaGymBattleText1::
@@ -64,7 +64,7 @@ _FuchsiaGymEndBattleText1::
 	prompt
 
 _FuchsiaGymAfterBattleText1::
-	text "אז אתה משתמש"
+	text "אז את משתמשת"
 	line "בשילוב בין כוח"
 	cont "למוח? אסטרטגיה"
 	cont "טובה!"

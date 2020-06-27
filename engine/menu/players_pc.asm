@@ -241,10 +241,10 @@ PlayerPCToss:
 	jp .loop
 
 PlayersPCMenuEntries:
-	db   "הוצא פריט"
-	next "הכנס פריט"
-	next "זרוק פריט"
-	next "התנתק@"
+	db   "הוצאת פריט"
+	next "הכנסת פריט"
+	next "זריקת פריט"
+	next "התנתקות@"
 
 TurnedOnPC2Text:
 	TX_FAR _TurnedOnPC2Text

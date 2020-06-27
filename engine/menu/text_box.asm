@@ -218,13 +218,13 @@ TextBoxTextAndCoordTable:
 ; note that there is no terminator
 
 BuySellQuitText:
-	db   "קנה"
-	next "מכר"
+	db   "קני"
+	next "מכרי"
 	next "ביטול@@"
 
 UseTossText:
-	db   "השתמש"
-	next "זרוק@"
+	db   "השתמשי"
+	next "זרקי@"
 
 JapaneseSaveMessageText:
 	db   "きろく"
@@ -245,15 +245,15 @@ JapaneseMainMenuText:
 	next "さいしょから@"
 
 BattleMenuText:
-	db   "תקוף  ",$E2,$E1
-	next "פריט  ברח@"
+	db   "התקפה  ",$E2,$E1
+	next "פריט  ברחי@"
 
 SafariZoneBattleMenuText:
 	db   "כדור  ×   פיתיון"
-	next "אבן       ברח@"
+	next "אבן       ברחי@"
 
 SwitchStatsCancelText:
-	db   "החלף"
+	db   "החלפה"
 	next "נתונים"
 	next "ביטול@"
 
@@ -556,10 +556,10 @@ TwoOptionMenuStrings:
 	db   "צפון" ; UNUSED
 	next "מזרח@" ; UNUSED
 .TradeCancelMenu
-	db   "החלף"
+	db   "החלפה"
 	next "ביטול@"
 .HealCancelMenu
-	db   "רפא"
+	db   "ריפוי"
 	next "ביטול@"
 
 DisplayFieldMoveMonMenu:
@@ -692,7 +692,7 @@ FieldMoveNames:
 
 PokemonMenuEntries:
 	db   "נתונים"
-	next "החלף"
+	next "החלפה"
 	next "ביטול@"
 
 GetMonFieldMoves:

@@ -1,5 +1,5 @@
 _CeruleanGymText_5c7be::
-	text "היי, אתה חדש פה!"
+	text "היי, את חדשה פה!"
 
 	para "מאמנים ששואפים"
 	line "להיות מקצוענים"
@@ -18,7 +18,7 @@ _CeruleanGymText_5c7c3::
 	text "TM11 מלמד את"
 	line "המהלך קרן בועות!"
 
-	para "תשתמש בו על"
+	para "תשתמשי בו על"
 	line "#ימונים ימיים!"
 	done
 
@@ -32,23 +32,23 @@ _CeruleanGymText_5c7c8::
 	cont "בהחלפה!"
 
 	para "ויש אפילו עוד,"
-	line "עכשיו אתה יכול"
+	line "עכשיו את יכולה"
 	cont "להשתמש במהלך"
 	cont "חיתוך גם מחוץ"
 	cont "לקרב!"
 
-	para "אתה יכול לחתוך"
+	para "את יכולה לחתוך"
 	line "שיחים קטנים כדי"
 	cont "לגשת לשבילים"
 	cont "חדשים!"
 
-	para "אתה יכול גם לקחת"
+	para "את יכולה גם לקחת"
 	line "את הMT האהוב"
 	cont "עליי!"
 	done
 
 _ReceivedTM11Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "11MT!@@"
 
 _CeruleanGymText_5c7d3::
@@ -80,15 +80,15 @@ _CeruleanGymEndBattleText1::
 _CeruleanGymAfterBattleText1::
 	text "צריך להילחם נגד"
 	line "מאמנים אחרים כדי"
-	cont "לגלות עד כמה חזק"
-	cont "אתה באמת."
+	cont "לגלות עד כמה חזקה"
+	cont "את באמת."
 	done
 
 _CeruleanGymBattleText2::
 	text "שפריץ!"
 
 	para "הקרב הראשון הוא"
-	line "נגדי! בוא נילחם!"
+	line "נגדי! בואי נילחם!"
 	done
 
 _CeruleanGymEndBattleText2::
@@ -105,16 +105,16 @@ _CeruleanGymAfterBattleText2::
 
 _CeruleanGymText_5c82a::
 	text "יו!"
-	line "אלופצ'יק!"
+	line "אלופצ'יקית!"
 
-	para "שמע עצה!"
+	para "שמעי עצה!"
 
 	para "מנהיגת המכון טל,"
 	line "היא מקצוענית"
 	cont "שמשתמשת רק"
 	cont "ב#ימוני מים!"
 
-	para "אתה יכול לשתות"
+	para "את יכולה לשתות"
 	line "לה את כל המים עם"
 	cont "#ימוני צמח!"
 
@@ -126,7 +126,7 @@ _CeruleanGymText_5c82f::
 	text "ניצחת את טל!"
 	line "בול כמו שאמרתי!"
 
-	para "אחי, אתה ואני,"
+	para "אחותי, אתה ואני,"
 	line "אנחנו צוות די"
 	cont "מוצלח!"
 	done

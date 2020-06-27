@@ -26,7 +26,7 @@ _BlaineFireBlastText::
 	line "מתקפת האש"
 	cont "האולטימטיבית!"
 
-	para "אל תבזבז אותה על"
+	para "אל תבזבזי אותה על"
 	line "#ימוני מים!"
 	done
 
@@ -43,7 +43,7 @@ _BlaineBadgeText::
 	done
 
 _ReceivedTM38Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
@@ -55,7 +55,7 @@ _TM38ExplanationText::
 	line "את המתקפה להבה"
 	cont "מתפרצת!"
 
-	para "למד #ימון אש"
+	para "למדי #ימון אש"
 	line "את המתקפה הזו!"
 
 	para "היא תתאים נהדר"
@@ -64,12 +64,12 @@ _TM38ExplanationText::
 	done
 
 _TM38NoRoomText::
-	text "פנה מקום בשביל"
+	text "פני מקום בשביל"
 	line "המתנה הזו!"
 	done
 
 _CinnabarGymText_7595f::
-	text "אתה יודע כמה"
+	text "את יודעת כמה"
 	line "#נשימת ימון אש"
 	cont "חמה?"
 	done
@@ -107,7 +107,7 @@ _CinnabarGymText_7599e::
 	done
 
 _CinnabarGymText_759c9::
-	text "אתה לא תנצח!"
+	text "את לא תנצחי!"
 	line "אני למדתי #ימון"
 	cont "אינספור שעות!"
 	done
@@ -130,7 +130,7 @@ _CinnabarGymText_759fe::
 	done
 
 _CinnabarGymText_75a03::
-	text "אתה לוהט מדי!"
+	text "את לוהטת מדי!"
 	prompt
 
 _CinnabarGymText_75a08::
@@ -194,13 +194,13 @@ _CinnabarGymText_75aa7::
 
 _CinnabarGymText_75ac2::
 	text "יו! "
-	line "אלופצ'יק!"
+	line "אלופצ'יקית!"
 
 	para "להב חמום המוח"
 	line "מומחה ב#ימוני"
 	cont "אש!"
 
-	para "תחסל אותו"
+	para "תחסלי אותו"
 	line "עם סוגי מים!"
 
 	para "וכדאי שתיקח איתך"

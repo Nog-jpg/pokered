@@ -41,7 +41,7 @@ _WardenThankYouText::
 	prompt
 
 _ReceivedHM04Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"

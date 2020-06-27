@@ -28,7 +28,7 @@ _CeladonDinerText4::
 	done
 
 _CeladonDinerText_491a7::
-	text "קדימה! תצחק עלי!"
+	text "קדימה! תצחקי עלי!"
 
 	para "הפסדתי כל מה"
 	line "שהיה לי!"
@@ -43,13 +43,13 @@ _CeladonDinerText_491a7::
 	prompt
 
 _ReceivedCoinCaseText::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _CoinCaseNoRoomText::
-	text "תפנה קצת מקום"
+	text "תפני קצת מקום"
 	line "בתיק שלך!"
 	done
 

@@ -44,7 +44,7 @@ _SSAnneRivalWonText::
 	text "מה קרה !<PLAYER>?"
 	line "חטפת מחלת ים?"
 
-	para "כדאי שתתעורר,"
+	para "כדאי שתתעוררי,"
 	line "חבר!"
 	prompt
 

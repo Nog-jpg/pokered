@@ -9,11 +9,11 @@ _CeladonMartRoofText_484f3::
 
 	para "תודה רבה!"
 
-	para "אתה יכול לקבל ממני"
+	para "את יכולה לקבל ממני"
 	line "את זה!@@"
 
 _CeladonMartRoofText_484f9::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
@@ -36,11 +36,11 @@ _CeladonMartRoofText_48504::
 
 	para "תודה רבה!"
 
-	para "אתה יכול לקבל ממני"
+	para "את יכולה לקבל ממני"
 	line "את זה!@@"
 
 _CeladonMartRoofText_4850a::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
@@ -64,11 +64,11 @@ _CeladonMartRoofText_48515::
 
 	para "תודה רבה!"
 
-	para "אתה יכול לקבל ממני"
+	para "את יכולה לקבל ממני"
 	line "את זה!@@"
 
 _ReceivedTM49Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "TM49!@@"
 
 _CeladonMartRoofText_48520::
@@ -87,8 +87,8 @@ _CeladonMartRoofText_4852c::
 	cont "אחרי הכל!@@"
 
 _CeladonMartRoofText1::
-	text "אחותי מאמנת, תאמין"
-	line "או לא."
+	text "אחותי מאמנת,"
+	line "תאמיני או לא."
 
 	para "אבל, היא כל כך"
 	line "לא בוגרת,"
@@ -137,5 +137,5 @@ _VendingMachineText6::
 	done
 
 _VendingMachineText7::
-	text "לא צמא!"
+	text "לא צמאה!"
 	done

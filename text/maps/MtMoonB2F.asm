@@ -9,7 +9,7 @@ _MtMoon3Text_49f64::
 	done
 
 _MtMoon3Text_49f6f::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"

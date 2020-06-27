@@ -15,7 +15,7 @@ _VermilionHouse2Text_560b6::
 	para "קח את זה, ותתחיל"
 	line "לדוג, חבוב!"
 
-	para "<PLAYER> קיבל"
+	para "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"

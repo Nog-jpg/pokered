@@ -3,24 +3,24 @@ _BillsHouseText_1e865::
 	line "#ימון!"
 	cont "...עובדים עליך!"
 
-	para "תקרא לי הדר!"
+	para "תקראי לי הדר!"
 	line "אני #יטורף בדם"
 	cont "ובנשמה!"
-	cont "מה יש לך? אתה לא"
-	cont "מאמין לי?"
+	cont "מה יש לך? את לא"
+	cont "מאמינה לי?"
 
 	para "אני לא משקר אותך"
-	line "אחי! התפקשש לי"
+	line "אחותי! התפקשש לי"
 	cont "איזה ניסוי ויצא"
 	cont "שהשתלבתי עם"
 	cont "#ימון!"
 
-	para "תעזור רגע לסחבק!"
+	para "תעזרי רגע לסחבק!"
 	done
 
 _BillsHouseText_1e86a::
 	text "כשאני נכנס"
-	line "למשגר, לך"
+	line "למשגר, לכי"
 	cont "למחשב שלי ותפעיל"
 	cont "את מערכת הפרדת"
 	cont "התאים!"
@@ -28,17 +28,17 @@ _BillsHouseText_1e86a::
 
 _BillsHouseText_1e86f::
 	text "מה זאת אומרת לא?"
-	line "נו, תעזור לי רגע"
-	cont "אחי, הסתבכתי!"
+	line "נו, תעזרי לי רגע"
+	cont "אחותי, הסתבכתי!"
 
 	para "סבבה אחי? בבקשה?"
-	line "כן? אתה תעזור?"
-	cont "בדוק אחי!"
+	line "כן? את תעזרי?"
+	cont "בדוק אחותי!"
 	prompt
 
 _BillThankYouText::
 	text "הדר: יש!"
-	line "תודה, חביבי! אני"
+	line "תודה, חביבתי! אני"
 	cont "חייב לך!"
 
 	para "רגע, באת לראות"
@@ -53,13 +53,13 @@ _BillThankYouText::
 	prompt
 
 _SSTicketReceivedText::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _SSTicketNoRoomText::
-	text "אתה סוחב יותר"
+	text "את סוחבת יותר"
 	line "מדי בכיסים,"
 	line "חבריקו!"
 	done
@@ -75,13 +75,13 @@ _BillsHouseText_1e8cb::
 	line "למסיבה שלהם, אבל"
 	cont "אני לא סובל את"
 	cont "השטויות האלה."
-	cont "תעשה לי טובה,"
-	cont "אולי תלך לשם"
+	cont "תעשי לי טובה,"
+	cont "אולי תלכי לשם"
 	cont "במקומי?"
 	done
 
 _BillsHouseText_1e8da::
-	text "הדר: אחי, אתה"
+	text "הדר: אחותי, את"
 	line "חייב להסתכל על"
 	cont "ה#ימונים"
 	cont "הנדירים שיש"

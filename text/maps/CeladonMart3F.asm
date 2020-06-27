@@ -8,7 +8,7 @@ _TM18PreReceiveText::
 	prompt
 
 _ReceivedTM18Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
@@ -55,7 +55,7 @@ _CeladonMart3Text4::
 	done
 
 _CeladonMart3Text5::
-	text "אתה יכול לזהות"
+	text "את יכולה לזהות"
 	line "#ימונים שקיבלת"
 	cont "דרך החלפה לפי"
 	cont "מספר הזהות שלהם,"

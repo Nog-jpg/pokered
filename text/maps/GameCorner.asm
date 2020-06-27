@@ -66,7 +66,7 @@ _CeladonGameCornerText_48d9c::
 	prompt
 
 _Received10CoinsText::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "01 אסימונים!@@"
 
 _CeladonGameCornerText_48da7::
@@ -125,7 +125,7 @@ _CeladonGameCornerText_48e26::
 	prompt
 
 _Received20CoinsText::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "02 אסימונים!@@"
 
 _CeladonGameCornerText_48e31::
@@ -148,7 +148,7 @@ _CeladonGameCornerText_48e88::
 	prompt
 
 _CeladonGameCornerText_48e8d::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "02 אסימונים!@@"
 
 _CeladonGameCornerText_48e93::

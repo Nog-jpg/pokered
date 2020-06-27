@@ -2,7 +2,7 @@ _CeruleanCityText_19668::
 	text "<RIVAL>: יו!"
 	line "<PLAYER>!"
 
-	para "אתה עדיין צולע"
+	para "את עדיין צולעת"
 	line "לך שם?"
 
 	para "אני מתקדם נהדר!"
@@ -10,26 +10,26 @@ _CeruleanCityText_19668::
 	cont "#ימונים חזקים"
 	cont "וחכמים!"
 
-	para "קדימה, בוא נראה"
-	line "מה אתה תפסת,"
+	para "קדימה, בואי נראה"
+	line "מה א תפסת,"
 	cont "<PLAYER>!"
 	done
 
 _CeruleanCityText_1966d::
 	text "היי!"
-	line "תרגיע!"
+	line "תרגיעי!"
 	cont "כבר ניצחת אותי!"
 	prompt
 
 _CeruleanCityText_19672::
 	text "פחה!"
-	line "אתה לא משתווה"
+	line "את לא משתווה"
 	cont "לגאונות שלי!"
 	prompt
 
 _CeruleanCityText_19677::
 	text "<RIVAL>: היי,"
-	line "נחש מה עשיתי?"
+	line "נחשי מה עשיתי?"
 
 	para "הלכתי לבית של הדר"
 	line "ושכנעתי אותו"
@@ -48,7 +48,7 @@ _CeruleanCityText_19677::
 	cont "שבמחשב!"
 
 	para "כדאי שתלך להודות"
-	line "לו, כי אתה משתמש"
+	line "לו, כי את משתמשת"
 	cont "בהמצאה שלו!"
 
 	para "טוב! נראה לי שכדאי"
@@ -57,17 +57,17 @@ _CeruleanCityText_19677::
 	done
 
 _CeruleanCityText_196d9::
-	text "היי! צא מכאן!"
+	text "היי! צאי מכאן!"
 	line "זאת לא החצר שלך!"
 	cont "מה? אני?"
 
 	para "אני רק עובר אורח"
-	line "תמים! אתה לא"
-	cont "מאמין לי?"
+	line "תמים! את לא"
+	cont "מאמינה לי?"
 	done
 
 _ReceivedTM28Text::
-	text "<PLAYER> מצא"
+	text "<PLAYER> מצאה"
 	line "82MT!@@"
 
 _ReceivedTM28Text2::
@@ -77,7 +77,7 @@ _ReceivedTM28Text2::
 	line "לי עכשיו! ביי!@@"
 
 _TM28NoRoomText::
-	text "תפנה קצת מקום"
+	text "תפני קצת מקום"
 	line "כדי לקחת את זה!"
 
 	para "אסור לי לברוח עד"
@@ -86,7 +86,7 @@ _TM28NoRoomText::
 	done
 
 _CeruleanCityText_196ee::
-	text "תפסיק!"
+	text "תפסיקי!"
 	line "אני נכנע! אני"
 	cont "אעזוב בשקט!"
 	prompt
@@ -97,7 +97,7 @@ _CeruleanCityText_196f3::
 	prompt
 
 _CeruleanCityText3::
-	text "גם אתה מאמן?"
+	text "גם את מאמנת?"
 	line "אספנות, קרבות..."
 	cont "זה סגנון חיים"
 	cont "קשוח."
@@ -112,7 +112,7 @@ _CeruleanCityText4::
 	done
 
 _CeruleanCityText5::
-	text "אתה מחבר"
+	text "את מחברת"
 	line "אנציקלופדיה על"
 	cont "#ימון? זה"
 	cont "משעשע."
@@ -156,7 +156,7 @@ _CeruleanCityText_1973a::
 	para "הצייתנות של"
 	line "ה#ימונים שלך"
 	cont "תלויה ביכולות שלך"
-	cont "בתור מאמן!"
+	cont "בתור מאמנת!"
 	done
 
 _CeruleanCityText_1976f::

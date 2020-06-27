@@ -82,18 +82,18 @@ _PokeCenterSignText::
 	done
 
 _FoundItemText::
-	text "<PLAYER> מצא"
+	text "<PLAYER> מצאה"
 	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _NoMoreRoomForItemText::
-	text "אתה לא יכול לסחוב"
+	text "את לא יכולה לסחוב"
 	line "עוד פריטים!"
 	done
 
 _OaksAideHiText::
-	text "היי! זוכר אותי?"
+	text "היי! זוכרת אותי?"
 	line "אני העוזר של פרופ'"
 	cont "אלון!"
 
@@ -114,14 +114,14 @@ _OaksAideHiText::
 	done
 
 _OaksAideUhOhText::
-	text "בוא נראה..."
+	text "בואי נראה..."
 	line "אוי לא! נראה שתפסת"
 	cont "רק @"
 	TX_NUM hOaksAideNumMonsOwned, 1, 3
 	text ""
 	cont "סוגי #ימון!"
 
-	para "תצטרך לתפוס @"
+	para "תצטרכי לתפוס @"
 	TX_NUM hOaksAideRequirement, 1, 3
 	text " סוגים"
 	line "כדי לקבל את"
@@ -136,7 +136,7 @@ _OaksAideComeBackText::
 	para "כשתשיג @"
 	TX_NUM hOaksAideRequirement, 1, 3
 	text ""
-	line "סוגים, בוא לדבר"
+	line "סוגים, בואי לדבר"
 	cont "איתי ואתן לך@@"
 	TX_RAM wOaksAideRewardItemName
 	text "."
@@ -154,7 +154,7 @@ _OaksAideHereYouGoText::
 	prompt
 
 _OaksAideGotItemText::
-	text "<PLAYER> קיבל את"
+	text "<PLAYER> קיבלה את"
 	line "ה@"
 	TX_RAM wOaksAideRewardItemName
 	text "!@@"
@@ -283,7 +283,7 @@ _TradeTransferredText::
 	done
 
 _TradeTakeCareText::
-	text "טפל היטב"
+	text "טפלי היטב"
 	line "ב@"
 	TX_RAM wcd6d
 	text "."
@@ -316,7 +316,7 @@ _OutOfCoinsSlotMachineText::
 
 _BetHowManySlotMachineText::
 	text "כמה אסימונים"
-	line "תרצה להמר?"
+	line "תרצי להמר?"
 	done
 
 _StartSlotMachineText::
@@ -469,9 +469,9 @@ _CeladonCityPokecenterGuyText::
 	done
 
 _FuchsiaCityPokecenterGuyText::
-	text "אם אתה חוקר"
+	text "אם את חוקרת"
 	line "#ימונים, כדאי"
-	cont "לך לבקר באיזור"
+	cont "לכי לבקר באיזור"
 	cont "הספארי."
 
 	para "יש שם כל מיני"
@@ -522,7 +522,7 @@ _NewBicycleText::
 	done
 
 _PushStartText::
-	text "לחץ על כפתור TRATS"
+	text "לחצי על כפתור TRATS"
 	line "כדי לפתוח את"
 	cont "התפריט!"
 	done
@@ -553,13 +553,13 @@ _GameOverText::
 _CinnabarGymQuizIntroText::
 	text "חידון #ימון!"
 
-	para "אם תענה נכון, הדלת"
+	para "אם תעני נכון, הדלת"
 	line "לחדר הבא תיפתח!"
 
-	para "אם תטעה, תיאלץ"
+	para "אם תטעי, תיאלצי"
 	line "להילחם במאמן!"
 
-	para "אם אתה רוצה לשמור"
+	para "אם את רוצה לשמור"
 	line "את בריאות"
 	cont "ה#ימונים שלך לקרב"
 	cont "מול המנהיג..."
@@ -604,10 +604,10 @@ _CinnabarQuizQuestionsText6::
 	done
 
 _CinnabarGymQuizCorrectText::
-	text "אתה לגמרי"
-	line "צודק!"
+	text "את לגמרי"
+	line "צודקת!"
 
-	para "עבור לחדר הבא!@@"
+	para "עברי לחדר הבא!@@"
 
 _CinnabarGymQuizIncorrectText::
 	text "אופס! ניחוש"
@@ -638,7 +638,7 @@ _BillsHousePokemonListText1::
 	prompt
 
 _BillsHousePokemonListText2::
-	text "איזה #ימון תרצה"
+	text "איזה #ימון תרצי"
 	line "לראות?"
 	done
 
@@ -721,7 +721,7 @@ _TurnPageText::
 	done
 
 _ViridianSchoolNotebookText5::
-	text "ילדה: היי! אל תציץ"
+	text "ילדה: היי! אל תציצי"
 	line "במחברת שלי!@@"
 
 _ViridianSchoolNotebookText1::
@@ -807,7 +807,7 @@ _IndigoPlateauHQText::
 	done
 
 _RedBedroomSNESText::
-	text "<PLAYER> משחק"
+	text "<PLAYER> משחקת"
 	line "במגאסון!"
 	cont "...אוקיי!"
 	cont "צריך ללכת!"
@@ -842,7 +842,7 @@ _LinkCableHelpText1::
 	prompt
 
 _LinkCableHelpText2::
-	text "איזו כותרת תרצה"
+	text "איזו כותרת תרצי"
 	line "לקרוא?"
 	done
 
@@ -850,7 +850,7 @@ _LinkCableInfoText1::
 	text "ברגע שתחבר את"
 	line "הגיים בוי שלך עם"
 	cont ",גיים בוי נוסף"
-	cont "דבר עם הנציגה"
+	cont "דברי עם הנציגה"
 	cont "שבצד ימין בכל"
 	cont "מרכז #ימון."
 	prompt
@@ -874,7 +874,7 @@ _ViridianSchoolBlackboardText1::
 	prompt
 
 _ViridianSchoolBlackboardText2::
-	text "איזו כותרת תרצה"
+	text "איזו כותרת תרצי"
 	line "לקרוא?"
 	done
 
@@ -887,7 +887,7 @@ _ViridianBlackboardSleepText::
 	line "אפילו אחרי סוף"
 	cont "הקרב."
 
-	para "השתמש בשיקוי מעורר"
+	para "השתמשי בשיקוי מעורר"
 	line "כדי להעיר אותו!"
 	prompt
 
@@ -900,7 +900,7 @@ _ViridianBlackboardPoisonText::
 	line "אחרי קרבות."
 
 	para "כדי לרפא הרעלה,"
-	line "השתמש בנוגדן!"
+	line "השתמשי בנוגדן!"
 	prompt
 
 _ViridianBlackboardPrlzText::
@@ -914,7 +914,7 @@ _ViridianBlackboardPrlzText::
 	cont "הקרב."
 
 	para "כדי לרפא שיתוק,"
-	line "השתמש ברפא שיתוק!"
+	line "השתמשי ברפא שיתוק!"
 	prompt
 
 _ViridianBlackboardBurnText::
@@ -927,7 +927,7 @@ _ViridianBlackboardBurnText::
 	line "אחרי הקרב."
 
 	para "כדי לרפא כויה,"
-	line "השתמש ברפא כויה!"
+	line "השתמשי ברפא כויה!"
 	prompt
 
 _ViridianBlackboardFrozenText::
@@ -939,7 +939,7 @@ _ViridianBlackboardFrozenText::
 	cont "הקרב."
 
 	para "כדי להפשיר #ימון"
-	line "קפוא, השתמש ברפא"
+	line "קפוא, השתמשי ברפא"
 	cont "קרח!"
 	prompt
 
@@ -951,7 +951,7 @@ _VermilionGymTrashText::
 _VermilionGymTrashSuccessText1::
 	text "היי, יש מתג מתחת"
 	line "לכל האשפה!"
-	cont "תדליק אותו!"
+	cont "תדליקי אותו!"
 
 	para "המנעול החשמלי"
 	line "הראשון נפתח!@@"
@@ -959,7 +959,7 @@ _VermilionGymTrashSuccessText1::
 _VermilionGymTrashSuccessText2::
 	text "היי! יש כאן עוד"
 	line "מתג מתחת לאשפה!"
-	cont "תדליק אותו!"
+	cont "תדליקי אותו!"
 	prompt
 
 _VermilionGymTrashSuccessText3::
@@ -977,7 +977,7 @@ _VermilionGymTrashFailText::
 	cont "שוב!"
 
 _FoundHiddenItemText::
-	text "<PLAYER> מצא"
+	text "<PLAYER> מצאה"
 	line "@"
 	TX_RAM wcd6d
 	text "!@@"
@@ -988,13 +988,13 @@ _HiddenItemBagFullText::
 	done
 
 _FoundHiddenCoinsText::
-	text "<PLAYER> מצא"
+	text "<PLAYER> מצאה"
 	line "@"
 	TX_BCD hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " מטבעות!@@"
 
 _FoundHiddenCoins2Text::
-	text "<PLAYER> מצא"
+	text "<PLAYER> מצאה"
 	line "@"
 	TX_BCD hCoins, 2 | LEADING_ZEROES | LEFT_ALIGN
 	text " מטבעות!@@"
@@ -1090,7 +1090,7 @@ _EnemyMonFaintedText::
 	prompt
 
 _MoneyForWinningText::
-	text "<PLAYER> זכה"
+	text "<PLAYER> זכתה"
 	line "ב@"
 	TX_BCD wAmountMoneyWon, 3 | LEADING_ZEROES | LEFT_ALIGN
 	text "¥!"
@@ -1124,11 +1124,11 @@ _PlayerBlackedOutText2::
 	line "עוד #ימונים"
 	cont "שיכולים להילחם!"
 
-	para "<PLAYER> התעלף!"
+	para "<PLAYER> התעלפה!"
 	prompt
 
 _LinkBattleLostText::
-	text "<PLAYER> הפסיד"
+	text "<PLAYER> הפסידה"
 	line "ל@"
 	TX_RAM wTrainerName
 	text "!"
@@ -1149,7 +1149,7 @@ _TrainerAboutToUseText::
 _TrainerSentOutText::
 	text "@"
 	TX_RAM wTrainerName
-	text " שלח"
+	text " שלחה"
 	line "את @"
 	TX_RAM wEnemyMonNick
 	text "!"
@@ -1160,7 +1160,7 @@ _NoWillText::
 	prompt
 
 _CantEscapeText::
-	text "לא יכול לברוח!"
+	text "לא יכולה לברוח!"
 	prompt
 
 _NoRunningText::
@@ -1688,7 +1688,7 @@ _TurnedOnPC2Text::
 	prompt
 
 _WhatDoYouWantText::
-	text "מה תרצה לעשות?"
+	text "מה תרצי לעשות?"
 	done
 
 _WhatToDepositText::
@@ -1778,7 +1778,7 @@ _MonWasStoredText::
 	prompt
 
 _CantDepositLastMonText::
-	text "אתה לא יכול"
+	text "את לא יכולה"
 	line "להכניס את!"
 	cont "ה#ימון האחרון!"
 	prompt
@@ -1803,10 +1803,10 @@ _NoMonText::
 	prompt
 
 _CantTakeMonText::
-	text "אתה לא יכול לקחת"
+	text "את לא יכולה לקחת"
 	line "עוד #ימונים."
 
-	para "הכנס כמה"
+	para "הכניסי כמה"
 	line "#ימונים כדי"
 	cont "לפנות מקום."
 	prompt
@@ -1817,7 +1817,7 @@ _ReleaseWhichMonText::
 	done
 
 _OnceReleasedText::
-	text "אם תשחרר"
+	text "אם תשחררי"
 	line "את @"
 	TX_RAM wcf4b
 	text ", הוא"
@@ -1847,14 +1847,14 @@ _ExchangeCoinsForPrizesText::
 	prompt
 
 _WhichPrizeText::
-	text "איזה פרס תרצה?"
+	text "איזה פרס תרצי?"
 	done
 
 _HereYouGoText::
 	text "בבקשה!@@"
 
 _SoYouWantPrizeText::
-	text "אז אתה רוצה את"
+	text "אז את רוצה את"
 	line "ה@"
 	TX_RAM wcd6d
 	text "?"
@@ -1862,7 +1862,7 @@ _SoYouWantPrizeText::
 
 _SorryNeedMoreCoinsText::
 	text "אני מצטער, אבל"
-	line "אתה צריך עוד"
+	line "את צריכה עוד"
 	cont "אסימונים.@@"
 
 _OopsYouDontHaveEnoughRoomText::
@@ -1890,11 +1890,11 @@ _AccessedOaksPCText::
 	prompt
 
 _WhereWouldYouLikeText::
-	text "לאן תרצה ללכת?"
+	text "לאן תרצי ללכת?"
 	done
 
 _PleaseWaitText::
-	text "בסדר, המתן רק"
+	text "בסדר, המתיני רק"
 	line "רגע."
 	done
 
@@ -1905,7 +1905,7 @@ _LinkCanceledText::
 INCLUDE "text/oakspeech.asm"
 
 _DoYouWantToNicknameText::
-	text "אתה רוצה לתת"
+	text "את רוצה לתת"
 	line "ל@"
 	TX_RAM wcd6d
 	text " כינוי?"
@@ -2024,7 +2024,7 @@ _WouldYouLikeToSaveText::
 	done
 
 _GameSavedText::
-	text "<PLAYER> שמר"
+	text "<PLAYER> שמרה"
 	line "את המשחק!"
 	done
 
@@ -2036,7 +2036,7 @@ _OlderFileWillBeErasedText::
 	done
 
 _WhenYouChangeBoxText::
-	text "כשאתה מחליף בין"
+	text "כשאת מחליפה בין"
 	line "תאים במחשב, המשחק"
 	cont "יישמר."
 
@@ -2459,7 +2459,7 @@ _PlayerBlackedOutText::
 	line "#ימונים שיכולים"
 	cont "להילחם!"
 
-	para "<PLAYER> התעלף!"
+	para "<PLAYER> התעלפה!"
 	prompt
 
 _RepelWoreOffText::
@@ -2468,7 +2468,7 @@ _RepelWoreOffText::
 	done
 
 _PokemartBuyingGreetingText::
-	text "קח את הזמן."
+	text "קחי את הזמן."
 	done
 
 _PokemartTellBuyPriceText::
@@ -2496,7 +2496,7 @@ _PokemartItemBagFullText::
 	prompt
 
 _PokemonSellingGreetingText::
-	text "מה תרצה למכור?"
+	text "מה תרצי למכור?"
 	done
 
 _PokemartTellSellPriceText::
@@ -2597,7 +2597,7 @@ _HMCantDeleteText::
 	prompt
 
 _PokemonCenterWelcomeText::
-	text "ברוך הבא למרכז"
+	text "ברוכה הבאה למרכז"
 	line "ה#ימון!"
 
 	para "אנחנו מרפאים"
@@ -2606,7 +2606,7 @@ _PokemonCenterWelcomeText::
 	prompt
 
 _ShallWeHealYourPokemonText::
-	text "תרצה שנרפא את"
+	text "תרצי שנרפא את"
 	line "ה#ימונים שלך?"
 	done
 
@@ -2636,7 +2636,7 @@ _CableClubNPCAreaReservedFor2FriendsLinkedByCableText::
 	done
 
 _CableClubNPCWelcomeText::
-	text "ברוך הבא"
+	text "ברוכה הבאה"
 	line "למועדון החיבור!" ; TODO
 	done
 
@@ -2649,13 +2649,13 @@ _CableClubNPCPleaseApplyHereHaveToSaveText::
 	done
 
 _CableClubNPCPleaseWaitText::
-	text "אנא המתן.@@"
+	text "אנא המתיני.@@"
 
 _CableClubNPCLinkClosedBecauseOfInactivityText::
 	text "החיבור נסגר עקב"
 	line "חוסר פעילות."
 
-	para "אנא, צור קשר עם"
+	para "אנא, צרי קשר עם"
 	line "חברך. נשמח לראותך"
 	cont "שוב!"
 	done
@@ -2738,7 +2738,7 @@ _CannotGetOffHereText::
 	prompt
 
 _GotMonText::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "את @"
 	TX_RAM wcd6d
 	text "!@@"
@@ -2763,8 +2763,8 @@ _BoxIsFullText::
 	line "אפשר לשלוח אליו"
 	cont "עוד #ימונים!"
 
-	para "לך למרכז ה#ימון"
-	line "ותחליף את התא"
+	para "לכי למרכז ה#ימון"
+	line "ותחליפי את התא"
 	cont "במחשב!"
 	done
 
@@ -2834,7 +2834,7 @@ _ItemUseBallText06::
 	cont "נוסף ל#ידע!@@"
 
 _SurfingGotOnText::
-	text "<PLAYER> עלה על"
+	text "<PLAYER> עלתה על"
 	line "@"
 	TX_RAM wcd6d
 	text "!"
@@ -2863,7 +2863,7 @@ _ThrewBaitText::
 	done
 
 _ThrewRockText::
-	text "<PLAYER> זרק אבן."
+	text "<PLAYER> זרקה אבן."
 	done
 
 _PlayedFluteNoEffectText::
@@ -2966,7 +2966,7 @@ _ItemUseNotTimeText::
 	prompt
 
 _ItemUseNotYoursToUseText::
-	text "אל תשתמש במה"
+	text "אל תשתמשי במה"
 	line "שלא שלך!"
 	prompt
 
@@ -2980,7 +2980,7 @@ _ThrowBallAtTrainerMonText1::
 	prompt
 
 _ThrowBallAtTrainerMonText2::
-	text "אל תהיה גנב!"
+	text "אל תהיי גנב!"
 	prompt
 
 _NoCyclingAllowedHereText::
@@ -2996,7 +2996,7 @@ _NoSurfingHereText::
 	prompt
 
 _BoxFullCannotThrowBallText::
-	text "אתה לא יכול"
+	text "את לא יכולה"
 	line "להשתמש בפריט הזה"
 	cont "כי התא במחשב מלא!"
 	prompt
@@ -3005,7 +3005,7 @@ _BoxFullCannotThrowBallText::
 SECTION "Text 11", ROMX ; BANK $2a
 
 _ItemUseText001::
-	text "<PLAYER> השתמש@@"
+	text "<PLAYER> השתמשה@@"
 
 _ItemUseText002::
 	text "ב@"
@@ -3014,7 +3014,7 @@ _ItemUseText002::
 	done
 
 _GotOnBicycleText1::
-	text "<PLAYER> עלה על@@"
+	text "<PLAYER> עלתה על@@"
 
 _GotOnBicycleText2::
 	text "ה@"
@@ -3039,7 +3039,7 @@ _ThrewAwayItemText::
 	prompt
 
 _IsItOKToTossItemText::
-	text "אתה בטוח שאתה"
+	text "את בטוחה שאת"
 	line "רוצה לזרוק את"
 	cont "ה@"
 	TX_RAM wcf4b
@@ -3099,8 +3099,8 @@ _WrongMon1Text::
 	TX_RAM wInGameTradeGiveMonName
 	text "!"
 
-	para "אם אתה משיג אחד,"
-	line "תחזור לכאן!"
+	para "אם את משיגה אחד,"
+	line "תחזרי לכאן!"
 	done
 
 _Thanks1Text::
@@ -3108,7 +3108,7 @@ _Thanks1Text::
 	done
 
 _AfterTrade1Text::
-	text "איך אתה מסתדר עם"
+	text "איך את מסתדרת עם"
 	line "ה@"
 	TX_RAM wInGameTradeReceiveMonName
 	text ""
@@ -3116,8 +3116,8 @@ _AfterTrade1Text::
 	done
 
 _WannaTrade2Text::
-	text "שלום לך! אתה"
-	line "מעוניין במקרה"
+	text "שלום לך! את"
+	line "מעוניינת במקרה"
 	cont "להחליף את"
 	para "ה@"
 	TX_RAM wInGameTradeGiveMonName
@@ -3138,8 +3138,8 @@ _WrongMon2Text::
 	TX_RAM wInGameTradeGiveMonName
 	text "."
 
-	para "כשתתפוס אחד,"
-	line "תזכור לחזור"
+	para "כשתתפסי אחד,"
+	line "תזכרי לחזור"
 	cont "ולהחליף אותו."
 	done
 
@@ -3178,12 +3178,12 @@ _WrongMon3Text::
 	TX_RAM wInGameTradeGiveMonName
 	text "."
 
-	para "אם אתה תופס אחד,"
-	line "בוא להחליף אותו!"
+	para "אם את תופסת אחד,"
+	line "בואי להחליף אותו!"
 	done
 
 _Thanks3Text::
-	text "תודה חבר!"
+	text "תודה חברה!"
 	done
 
 _AfterTrade3Text::
