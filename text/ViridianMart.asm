@@ -17,7 +17,7 @@ ViridianMartParcelQuestText::
 	line "אתה יכול למסור"
 	cont "לו אותה?"
 
-	para "<PLAYER> קיבל את"
+	para "<PLAYER> קיבלה את"
 	line "החבילה של אלון!@"
 	text_end
 

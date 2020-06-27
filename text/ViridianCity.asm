@@ -81,7 +81,7 @@ _ViridianCityText_191ca::
 	prompt
 
 _ReceivedTM42Text::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "מ”מ24!@"
 	text_end
 

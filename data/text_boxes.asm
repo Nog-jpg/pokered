@@ -37,15 +37,15 @@ TextBoxTextAndCoordTable:
 	text_box_text JP_POKEDEX_MENU_TEMPLATE,          11,  8, 19, 17, JapanesePokedexMenu,      12, 10
 
 BuySellQuitText:
-	db   "קנה"
-	next "מכר"
+	db   "קני"
+	next "מכרי"
 	next "ביטול@"
 
 	db "@" ; unused
 
 UseTossText:
-	db   "השתמש"
-	next "זרוק@"
+	db   "השתמשי"
+	next "זרקי@"
 
 JapaneseSaveMessageText:
 	db   "きろく"
@@ -66,15 +66,15 @@ JapaneseMainMenuText:
 	next "さいしょから@"
 
 BattleMenuText:
-	db   "תקוף  <PK><MN>"
-	next "פריט  ברח@"
+	db   "התקפה <PK><MN>"
+	next "פריט ברחי@"
 
 SafariZoneBattleMenuText:
 	db   "כדור  ×   פיתיון"
-	next "אבן       ברח@"
+	next "אבן      ברחי@"
 
 SwitchStatsCancelText:
-	db   "החלף"
+	db   "החלפה"
 	next "נתונים"
 	next "ביטול@"
 

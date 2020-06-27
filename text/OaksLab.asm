@@ -48,7 +48,7 @@ _OaksLabMonEnergeticText::
 	prompt
 
 _OaksLabReceivedMonText::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	text_ram wcd6d
 	text "!@"
@@ -125,7 +125,7 @@ _OaksLabGivePokeballsText1::
 	cont "לתפוס #ימונים"
 	cont "פראיים."
 
-	para "<PLAYER> קיבל 5"
+	para "<PLAYER> קיבלה 5"
 	line "פוכדורים!@"
 	text_end
 
@@ -315,7 +315,7 @@ _OaksLabText25::
 	line "ו<RIVAL>! קחו"
 	cont "לכם אחד!"
 
-	para "<PLAYER> קיבל"
+	para "<PLAYER> קיבלה"
 	line "מאלון את ה#ידע!@"
 	text_end
 

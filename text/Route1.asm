@@ -13,7 +13,7 @@ _Route1ViridianMartSampleText::
 	prompt
 
 _Route1Text_1cae8::
-	text "<PLAYER> קיבל"
+	text "<PLAYER> קיבלה"
 	line "@"
 	text_ram wcf4b
 	text "!@"
