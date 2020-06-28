@@ -96,7 +96,7 @@ ExplainBikeVoucherText::
 	line "הקופון בעד"
 	cont "אופניים!"
 
-	para "אל תדאגי לגביי,"
+	para "אל תדאגי לגבי,"
 	line "הפחדרור שלי ייקח"
 	cont "אותי בתעופה לאן"
 	cont "שארצה!"

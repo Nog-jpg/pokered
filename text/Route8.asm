@@ -142,7 +142,7 @@ _Route8BattleText9::
 _Route8EndBattleText9::
 	text "דיי!"
 
-	para "אל תהיי כזה מרושעת"
+	para "אל תהיי כזאת מרשעת"
 	line "לחמשדון שלי!"
 	prompt
 

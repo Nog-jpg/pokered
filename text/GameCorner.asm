@@ -1,5 +1,5 @@
 _CeladonGameCornerText1::
-	text "ברוכה הבא!"
+	text "ברוכה הבאה!"
 
 	para "אם תרצי להחליף את"
 	line "האסימונים שלך"

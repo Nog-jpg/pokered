@@ -29,7 +29,7 @@ _PokemonTower2Text_60637::
 
 _PokemonTower2Text_6063c::
 	text "איך ה#ידע"
-	line "שלך מתקדם, חברה?"
+	cont "להשיג, חברה!"
 	cont "בדיוק תפסתי רשרש!"
 
 	para "עוד לא מצאתי"

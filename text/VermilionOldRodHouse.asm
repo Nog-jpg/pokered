@@ -4,7 +4,7 @@ _VermilionHouse2Text_560b1::
 	para "אני פשוט אווווהב"
 	line "לדוג!"
 
-	para "אתה אוהב"
+	para "את אוהבת"
 	line "לדוג?"
 	done
 
@@ -12,7 +12,7 @@ _VermilionHouse2Text_560b6::
 	text "אדיר! אני אוהב"
 	line "את הסגנון שלך!"
 
-	para "קח את זה, ותתחיל"
+	para "קחי את זה, ותתחילי"
 	line "לדוג, חבוב!"
 
 	para "<PLAYER> קיבלה"
@@ -28,9 +28,9 @@ _VermilionHouse2Text_560bb::
 	line "חיים!"
 
 	para "גם בים וגם בנהר,"
-	line "צא לדוג ותפוס"
+	line "צאי לדוג ותפסי"
 	cont "משהו כביר,"
-	cont "צעיר!"
+	cont "צעירה!"
 	done
 
 _VermilionHouse2Text_560c0::

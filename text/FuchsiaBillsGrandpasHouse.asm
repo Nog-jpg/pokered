@@ -25,7 +25,7 @@ _FuchsiaHouse1Text3::
 	line "פרטי ה#ימונים"
 	cont "שלו במחשב!"
 
-	para "אם תבקשי ממנו,"
+	para "אם תבקשי ממנו, אולי"
 	line "אולי הוא יראה לך"
 	cont "איך!"
 	done

@@ -102,7 +102,7 @@ _MtMoon3EndBattleText4::
 _MtMoon3AfterBattleText4::
 	text "אם את מוצאת מאובן"
 	line "תני לי אותו"
-	cont "ותתחפפי!"
+	cont "ות'חפפי!"
 	done
 
 _MtMoon3BattleText5::

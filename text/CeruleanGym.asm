@@ -58,12 +58,12 @@ _CeruleanGymText_5c7d3::
 	done
 
 _CeruleanGymText_5c7d8::
-	text "וואו! אתה"
+	text "וואו! את"
 	line "חזק!"
 
 	para "אוקיי!"
 
-	para "אתה יכול לקחת את"
+	para "את יכולה לקחת את"
 	line "תג הזהב שיוכיח"
 	cont "שניצחת אותי!@"
 	text_end
@@ -104,7 +104,7 @@ _CeruleanGymAfterBattleText2::
 	line "להשתפר!"
 
 	para "היא לא תפסיד מול"
-	line "מישהו כמוך!"
+	line "מישהי כמוך!"
 	done
 
 _CeruleanGymText_5c82a::
@@ -122,7 +122,7 @@ _CeruleanGymText_5c82a::
 	line "לה את כל המים עם"
 	cont "#ימוני צמח!"
 
-	para "או שתהמם אותם עם"
+	para "או שתהממי אותם עם"
 	line "חשמל!"
 	done
 
@@ -130,7 +130,7 @@ _CeruleanGymText_5c82f::
 	text "ניצחת את טל!"
 	line "בול כמו שאמרתי!"
 
-	para "אחותי, אתה ואני,"
+	para "אחותי, את ואני,"
 	line "אנחנו צוות די"
 	cont "מוצלח!"
 	done

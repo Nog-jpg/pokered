@@ -215,7 +215,7 @@ _OaksLabChooseMonText::
 	para "עכשיו כשאני מבוגר,"
 	line "נשארו לי רק 3,"
 	cont "אבל את יכולה לקחת"
-	cont "אחד! בחר!"
+	cont "אחד! בחרי!"
 	done
 
 _OaksLabRivalInterjectionText::

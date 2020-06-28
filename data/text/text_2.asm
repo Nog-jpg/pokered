@@ -1816,7 +1816,7 @@ _IntroducePlayerText::
 
 _IntroduceRivalText::
 	text "זה הנכד שלי."
-	line "אתה והוא יריבים"
+	line "את והוא יריבים"
 	cont "עוד מאז שהיתם"
 	cont "פעוטות."
 
@@ -1833,7 +1833,8 @@ _OakSpeechText3::
 	para "עולם של חלומות"
 	line "והרפתקאות עם"
 	cont "#ימונים ממתין"
-	cont "רק לך! בוא נתחיל!"
+	cont "רק לך! בואי"
+	cont "נתחיל!"
 	done
 
 _DoYouWantToNicknameText::

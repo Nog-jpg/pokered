@@ -1,5 +1,5 @@
 _SilphCo9Text_5d8e5::
-	text "את נראית עייפה!"
+	text "את נראת עייף!"
 	line "כדאי שתנוחי רגע!"
 	prompt
 
@@ -42,7 +42,7 @@ _SilphCo9EndBattleText2::
 _SilphCo9AfterBattleText2::
 	text "ניצול נקודות תורפה"
 	line "באמת עובד!"
-	cont "תתייחסי לסוגי"
+	cont "תתיחסי לסוגי"
 	cont "#ימונים!"
 	done
 

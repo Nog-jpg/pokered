@@ -82,7 +82,7 @@ _Route6BattleText6::
 
 _Route6EndBattleText6::
 	text "את"
-	line "יותר מדי מוצלחת!"
+	line "מוצלחת מדי!"
 	prompt
 
 _Route6AfterBattleText6::

@@ -23,7 +23,7 @@ _SSAnneRivalBeforeBattleText::
 	line "עם ה#ידע?"
 
 	para "כבר תפסתי 04"
-	line "סוגים, חבר!"
+	line "סוגים, חברה!"
 
 	para "יש סוגים שונים"
 	line "בכל מקום!"
@@ -35,8 +35,8 @@ _SSAnneRivalBeforeBattleText::
 _SSAnneRivalDefeatedText::
 	text "אוף!"
 
-	para "לפחות אתה מאמן"
-	line "את ה#ימונים"
+	para "לפחות את"
+	line "מאמנת את ה#ימונים"
 	cont "שלך!"
 	prompt
 
@@ -45,7 +45,7 @@ _SSAnneRivalWonText::
 	line "חטפת מחלת ים?"
 
 	para "כדאי שתתעוררי,"
-	line "חבר!"
+	line "חברה!"
 	prompt
 
 _SSAnneRivalCaptainText::

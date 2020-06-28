@@ -54,7 +54,7 @@ _CeruleanHouse2Text_74ea0::
 
 	para "בנוסף, התג יאפשר"
 	line "לך להשתמש במהלך"
-	cont "תעופה מתי שתרצה."
+	cont "תעופה מתי שתרצי."
 	prompt
 
 _CeruleanHouse2Text_74ea5::

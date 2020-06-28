@@ -60,7 +60,7 @@ _Route20BattleText5::
 	done
 
 _Route20EndBattleText5::
-	text "חלשלוש!"
+	text "חלשלושה!"
 	prompt
 
 _Route20AfterBattleText5::

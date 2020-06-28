@@ -4,7 +4,7 @@ _MeetLaprasGuyText::
 	cont "הגעת להציל אותנו?"
 	cont "ואו, תודה לך!"
 
-	para "אני רוצה שתיקחי את"
+	para "אני רוצה שתקחי את"
 	line "ה#ימון הזה,"
 	cont "כאות הוקרה על"
 	cont "שהצלת אותנו."
@@ -69,9 +69,8 @@ _SilphCo7Text_51e28::
 _SilphCo7Text_51e46::
 	text "את! מסוכן מאוד"
 	line "להסתובב כאן!"
-	cont "הגעת כדי להציל "
-	cont "אותי? את לא"
-	cont "יכולה!"
+	cont "הגעת להציל אותי?"
+	cont "את לא יכולה!"
 	done
 
 _SilphCo7Text_51e4b::
@@ -81,18 +80,17 @@ _SilphCo7Text_51e4b::
 
 _SilphCo7BattleText1::
 	text "הו לא! אני מריח"
-	line "כאן מסתננת קטן!"
+	line "כאן מסתננת קטנה!"
 	done
 
 _SilphCo7EndBattleText1::
 	text "כיבוי"
 	line "אורות!" 
 	prompt
-
 _SilphCo7AfterBattleText1::
 	text "את לא תמצאי את"
 	line "הבוס אם רק"
-	cont "תתרוצצי כאן מסביב!"
+	cont "תתרוצצי מסביב!"
 	done
 
 _SilphCo7BattleText2::
@@ -131,7 +129,7 @@ _SilphCo7AfterBattleText3::
 
 _SilphCo7BattleText4::
 	text "מסיגת גבול קטנה?"
-	line "זה בטח את!"
+	line "זו בטח את!"
 	done
 
 _SilphCo7EndBattleText4::
@@ -174,7 +172,7 @@ _SilphCo7Text_51ec8::
 	prompt
 
 _SilphCo7Text_51ecd::
-	text "<RIVAL>: איך לספר"
+	text "<RIVAL>: איך לומר"
 	line "לך את זה..."
 
 	para "את לא מספיק"

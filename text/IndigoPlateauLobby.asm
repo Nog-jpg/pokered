@@ -14,7 +14,7 @@ _IndigoPlateauLobbyText2::
 	done
 
 _IndigoPlateauLobbyText3::
-	text "מרגע זה, תלחמע"
+	text "מרגע זה, תילחמי"
 	line "נגד חברי הרביעיה"
 	cont "אחד-אחד ברצף!"
 

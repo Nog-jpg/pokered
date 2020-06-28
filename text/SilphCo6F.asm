@@ -48,8 +48,8 @@ _SilphCo6Text_1a2a6::
 	done
 
 _SilphCo6Text_1a2ab::
-	text "בואי לעבוד בסילף"
-	line "כשתגדלי."
+	text "בואו לעבוד בסילף"
+	line ".כשתגדלי"
 	done
 
 _SilphCo6BattleText2::
