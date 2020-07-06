@@ -645,24 +645,15 @@ _LinkCableHelpText1::
 	prompt
 
 _LinkCableHelpText2::
-<<<<<<< HEAD
-	text "איזה פרק תרצה"
-=======
 	text "איזה פרק תרצי"
->>>>>>> Initial girl version commit
 	line "לקרוא?"
 	done
 
 _LinkCableInfoText1::
 	text "ברגע שתחברי את"
 	line "הגיים בוי שלך עם"
-<<<<<<< HEAD
 	cont "גיים בוי נוסף,"
-	cont "דבר עם הנציגה"
-=======
-	cont ",גיים בוי נוסף"
 	cont "דברי עם הנציגה"
->>>>>>> Initial girl version commit
 	cont "שבצד ימין בכל"
 	cont "מרכז #ימון."
 	prompt
@@ -686,11 +677,7 @@ _ViridianSchoolBlackboardText1::
 	prompt
 
 _ViridianSchoolBlackboardText2::
-<<<<<<< HEAD
-	text "איזה פרק תרצה"
-=======
 	text "איזה פרק תרצי"
->>>>>>> Initial girl version commit
 	line "לקרוא?"
 	done
 
@@ -1644,13 +1631,8 @@ _MonWasStoredText::
 	prompt
 
 _CantDepositLastMonText::
-<<<<<<< HEAD
-	text "אתה לא יכול"
+	text "את לא יכולה"
 	line "לאחסן את"
-=======
-	text "אתה לא יכולה"
-	line "לאחסן את!"
->>>>>>> Initial girl version commit
 	cont "ה#ימון האחרון!"
 	prompt
 
