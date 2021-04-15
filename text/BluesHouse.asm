@@ -8,7 +8,7 @@ _DaisyInitialText::
 _DaisyOfferMapText::
 	text "סבא ביקש ממך"
 	line "לעשות בשבילו"
-	cont "סידורים? קח, זה"
+	cont "סידורים? קחי, זה"
 	cont "יעזור לך!"
 	prompt
 
